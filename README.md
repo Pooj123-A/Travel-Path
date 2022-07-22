@@ -1,2 +1,2 @@
-# CBFriendsCost
-CB Project
+# Travel Path
+Project---> [click here](https://travelpath.herokuapp.com/) 
